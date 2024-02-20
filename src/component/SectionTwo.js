@@ -3,7 +3,7 @@ import pic1 from "../../src/photo/doct1.jpg";
 export default function SectionTwo() {
   return (
     <>
-      <div className="w-full bg-[#F4FFFF] flex justify-center items-center   ">
+      <div className="w-full bg-[#F4FFFF] h-50 flex justify-center items-center   ">
         <div className="w-[65%] flex justify-between items-center ">
           <div className="flex flex-col items-center justify-center py-14">
             <dt className="mb-2 text-6xl font-bold text-[#67D7C1]">10M</dt>

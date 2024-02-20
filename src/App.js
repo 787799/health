@@ -13,7 +13,7 @@ import ContactUs from './component/ContactUs';
 function App() {
   return (
     <div className="w-full">
-      <Navbar/>
+    
       <Banner/>
       <SectionOne/>
       <SectionTwo/>

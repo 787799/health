@@ -1,4 +1,5 @@
 import pic from "../../src/photo/banner-removebg-preview.png";
+import Navbar from "./Navbar";
 
 export default function Banner() {
   return (
@@ -38,6 +39,7 @@ export default function Banner() {
         </div>
       </div> */}
       <div className="  w-full flex h-screen justify-center items-center px-10  bg-gray-50 bg-[url(https://www.tatacapital.com/blog/wp-content/uploads/2023/07/types-of-health-insurance-and-their-advantages.jpg)] bg-cover bg-center bg-no-repeat ">
+      <Navbar/>
       <div className="w-[70%] flex">
         <div className="w-1/2 flex flex-col justify-center items-start">
           <h4 className="font-bold text-black  ">Join Us</h4>
