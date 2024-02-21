@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 export default function Banner() {
   return (
-    <section class="relative bg-[url(https://www.tatacapital.com/blog/wp-content/uploads/2023/07/types-of-health-insurance-and-their-advantages.jpg)] bg-cover bg-center bg-no-repeat">
+    <section id="Home" class="relative bg-[url(https://www.tatacapital.com/blog/wp-content/uploads/2023/07/types-of-health-insurance-and-their-advantages.jpg)] bg-cover bg-center bg-no-repeat">
       {/* <div class="absolute inset-0 bg-white/75 sm:bg-transparent sm:from-white/95 sm:to-white/25 ltr:sm:bg-gradient-to-r rtl:sm:bg-gradient-to-l"></div> */}
 
       {/* <div class="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8">

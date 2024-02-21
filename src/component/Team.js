@@ -123,7 +123,7 @@ export default function Team() {
         </div>
       </div> */}
 
-      <div class="py-20 bg-gray-50">
+      <div id="Aboutus" class="py-20 bg-gray-50">
         <div class="container mx-auto px-6 md:px-12 xl:px-32">
           <div class="mb-16 text-center">
             <h2 className="font-bold text-5xl text-center my-4 text-[#67D7C1]">

@@ -7,7 +7,7 @@ export default function Testimonial() {
             <h1 class="text-5xl md:text-6xl font-bold mb-5 font-bold text-[#67D7C1]">
               What our Clients Say About Us
             </h1>
-            <h3 class="text-xl mb-5 font-light text-black">
+            <h3 class="text-xl mb-5 font-bold text-black">
               Our clients speak volumes about their experience with us ,praising
               our exeptional service and unwavering commitment.
             </h3>
