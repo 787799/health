@@ -3,37 +3,9 @@ import pic1 from "../../src/photo/doct1.jpg";
 export default function SectionTwo() {
   return (
     <>
-      <div  className="w-full bg-[#F4FFFF] h-50 flex justify-center items-center   ">
-        <div className="w-[65%] flex justify-between items-center ">
-          <div className="flex flex-col items-center justify-center py-14">
-            <dt className="mb-2 text-6xl font-bold text-[#67D7C1]">10M</dt>
-            <dd className="text-black font-bold dark:text-gray-400">
-              Happy Customers
-            </dd>
-          </div>
-          <div className="flex flex-col items-center justify-center text-[#67D7C1]">
-            <dt className="mb-2 text-6xl font-bold">04M</dt>
-            <dd className="text-black font-bold dark:text-gray-400">
-              Monthly Visitors
-            </dd>
-          </div>
-          <div className="flex flex-col items-center justify-center text-[#67D7C1]">
-            <dt className="mb-2 text-6xl font-bold">120</dt>
-            <dd className="text-black font-bold dark:text-gray-400">
-              Countries Worldwide
-            </dd>
-          </div>
 
-          <div className="flex flex-col items-center justify-center text-[#67D7C1]">
-            <dt className="mb-2 text-6xl font-bold">4.9</dt>
-            <dd className="text-black font-bold dark:text-gray-400">
-              Trust Pilot
-            </dd>
-          </div>
-        </div>
-      </div>
 
-      <div className="  w-full flex  justify-center items-center px-10  bg-white ">
+      <div className="  w-full flex  h-screen justify-center items-center px-10  bg-white ">
         <div className="w-[75%] flex">
           <div className="w-1/2 flex flex-col justify-center items-start">
             <h4 className="font-bold text-[#67D7C1]  ">WHO ARE WE</h4>

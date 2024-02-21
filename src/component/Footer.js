@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer class="bg-gray-50 dark:bg-gray-900">
+    <footer class="bg-[#B6E1E7] dark:bg-gray-900">
       <div class="mx-auto w-full ">
         <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4 pl-20">
           <div>
@@ -107,7 +107,7 @@ export default function Footer() {
             </ul>
           </div>
         </div>
-        <div class="px-4 py-6 bg-gray-300 dark:bg-gray-700 md:flex md:items-center md:justify-between">
+        <div class="px-4 py-6 bg-gray-500 dark:bg-gray-700 md:flex md:items-center md:justify-between">
           <span class="text-sm text-gray-500 dark:text-gray-300 sm:text-center">
             © 2024 <a >SMILECARE™</a>. All Rights
             Reserved.

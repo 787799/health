@@ -1,6 +1,6 @@
 export default function ContactUs() {
   return (
-    <div id="Contact" class="container my-24 mx-auto md:px-6">
+    <div id="Contact" class="container my-24 h-screen mx-auto md:px-6">
       <section class="mb-32">
       <div class="max-w-screen-md mb-8 lg:mb-16">
                 <h2 class="mb-4 text-5xl tracking-tight font-bold text-[#67D7C1]  dark:text-white">Contact Us</h2>
